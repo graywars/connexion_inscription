@@ -48,6 +48,7 @@ if(!empty($_POST['connexion']) && $_POST['connexion'] == 'Connexion')
 	<head>
 		<title>Forum promotion monge 2013-2015</title>
 		<link rel="stylesheet" href="style.css">
+		<meta charset="UTF-8">
 	</head>
 	<body>
 		<form action="index.php" method="post">
